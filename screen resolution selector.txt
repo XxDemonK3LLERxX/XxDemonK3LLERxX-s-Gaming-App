@@ -1,0 +1,6 @@
+This is the code for the screen resolution page! This is actually the part code for it, still need to code the other radioboxes!
+If radiobutton1.checked = true then
+  main_menu.show
+Else
+MSGBOX("Other screen resolution isn't avaliable!")
+End if
